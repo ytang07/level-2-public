@@ -1,0 +1,52 @@
+{
+    "california-institute-of-technology-1131.txt": [
+        "Student houses",
+        "student waiters",
+        "student life"
+    ],
+    "columbia-university-2707.txt": [
+        "Columbia University admissions",
+        "rolling admissions",
+        "campus security"
+    ],
+    "duke-university-2920.txt": [
+        "Duke University admissions",
+        "student patrols",
+        "Sanford School"
+    ],
+    "harvard-university-2155.txt": [
+        "Harvard University admissions",
+        "student patrols",
+        "John F. Kennedy School"
+    ],
+    "massachusetts-institute-of-technology-2178.txt": [
+        "Biomedical Engineering",
+        "Engineering",
+        "Mechanical Engineering"
+    ],
+    "princeton-university-2627.txt": [
+        "Princeton University admissions",
+        "health service",
+        "federal financial aid purposes"
+    ],
+    "stanford-university-1305.txt": [
+        "Stanford University admissions",
+        "Graduate School",
+        "federal financial aid purposes"
+    ],
+    "university-of-chicago-1774.txt": [
+        "Chicago Law School",
+        "international students",
+        "campus safety"
+    ],
+    "university-of-pennsylvania-3378.txt": [
+        "Physical Sciences",
+        "Social Sciences",
+        "student publications"
+    ],
+    "yale-university-1426.txt": [
+        "Yale University admissions",
+        "student organizations",
+        "Students"
+    ]
+}
